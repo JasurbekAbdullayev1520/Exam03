@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Ali",
+        "email": "ali@gamil.com",
+        "is_active": true
+    },
+    {
+        "name": "Vali",
+        "email": "vali@gamail.com",
+        "is_active": false
+    },
+    {
+        "name": "Ali",
+        "email": "ali@gamil.com",
+        "is_active": true
+    },
+    {
+        "name": "Vali",
+        "email": "vali@gamail.com",
+        "is_active": false
+    }
+]
